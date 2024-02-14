@@ -1,0 +1,11 @@
+D:\course 20 codes\Predicate Delegate\bin\Debug\Predicate Delegate.exe.config
+D:\course 20 codes\Predicate Delegate\bin\Debug\Predicate Delegate.exe
+D:\course 20 codes\Predicate Delegate\bin\Debug\Predicate Delegate.pdb
+D:\course 20 codes\Predicate Delegate\obj\Debug\Send Data Back To Form Using Delegate.csproj.AssemblyReference.cache
+D:\course 20 codes\Predicate Delegate\obj\Debug\Predicate_Delegate.Form1.resources
+D:\course 20 codes\Predicate Delegate\obj\Debug\Predicate_Delegate.frmsendbackcs.resources
+D:\course 20 codes\Predicate Delegate\obj\Debug\Predicate_Delegate.Properties.Resources.resources
+D:\course 20 codes\Predicate Delegate\obj\Debug\Send Data Back To Form Using Delegate.csproj.GenerateResource.cache
+D:\course 20 codes\Predicate Delegate\obj\Debug\Send Data Back To Form Using Delegate.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Predicate Delegate\obj\Debug\Predicate Delegate.exe
+D:\course 20 codes\Predicate Delegate\obj\Debug\Predicate Delegate.pdb

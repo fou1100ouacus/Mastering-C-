@@ -1,0 +1,11 @@
+D:\course 20 codes\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.exe.config
+D:\course 20 codes\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.exe
+D:\course 20 codes\Simple Event With Parameters Using Arguments\bin\Debug\Simple Event With Parameters Using Arguments.pdb
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.AssemblyReference.cache
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.ctrlCalculate.resources
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Form1.resources
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple_Event_With_Parameters_Using_Arguments.Properties.Resources.resources
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.GenerateResource.cache
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.exe
+D:\course 20 codes\Simple Event With Parameters Using Arguments\obj\Debug\Simple Event With Parameters Using Arguments.pdb
