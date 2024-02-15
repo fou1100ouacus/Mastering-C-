@@ -1,4 +1,4 @@
 # Mastering in C# 
 
-## Advanced Topic in c#
+## Advanced Topics in C#
 
