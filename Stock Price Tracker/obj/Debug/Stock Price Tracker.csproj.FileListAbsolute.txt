@@ -1,0 +1,7 @@
+D:\course 20 codes\Stock Price Tracker\bin\Debug\Stock Price Tracker.exe.config
+D:\course 20 codes\Stock Price Tracker\bin\Debug\Stock Price Tracker.exe
+D:\course 20 codes\Stock Price Tracker\bin\Debug\Stock Price Tracker.pdb
+D:\course 20 codes\Stock Price Tracker\obj\Debug\Stock Price Tracker.csproj.AssemblyReference.cache
+D:\course 20 codes\Stock Price Tracker\obj\Debug\Stock Price Tracker.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Stock Price Tracker\obj\Debug\Stock Price Tracker.exe
+D:\course 20 codes\Stock Price Tracker\obj\Debug\Stock Price Tracker.pdb
