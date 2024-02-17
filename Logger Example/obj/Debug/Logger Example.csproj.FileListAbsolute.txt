@@ -1,0 +1,7 @@
+D:\course 20 codes\Logger Example\bin\Debug\Logger Example.exe.config
+D:\course 20 codes\Logger Example\bin\Debug\Logger Example.exe
+D:\course 20 codes\Logger Example\bin\Debug\Logger Example.pdb
+D:\course 20 codes\Logger Example\obj\Debug\Logger Example.csproj.AssemblyReference.cache
+D:\course 20 codes\Logger Example\obj\Debug\Logger Example.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Logger Example\obj\Debug\Logger Example.exe
+D:\course 20 codes\Logger Example\obj\Debug\Logger Example.pdb

@@ -1,0 +1,7 @@
+D:\course 20 codes\NewOrderEventExample\bin\Debug\NewOrderEventExample.exe.config
+D:\course 20 codes\NewOrderEventExample\bin\Debug\NewOrderEventExample.exe
+D:\course 20 codes\NewOrderEventExample\bin\Debug\NewOrderEventExample.pdb
+D:\course 20 codes\NewOrderEventExample\obj\Debug\NewOrderEventExample.csproj.AssemblyReference.cache
+D:\course 20 codes\NewOrderEventExample\obj\Debug\NewOrderEventExample.csproj.CoreCompileInputs.cache
+D:\course 20 codes\NewOrderEventExample\obj\Debug\NewOrderEventExample.exe
+D:\course 20 codes\NewOrderEventExample\obj\Debug\NewOrderEventExample.pdb
