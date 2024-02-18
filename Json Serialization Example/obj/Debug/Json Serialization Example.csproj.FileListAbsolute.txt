@@ -1,0 +1,7 @@
+D:\course 20 codes\Json Serialization Example\bin\Debug\Json Serialization Example.exe.config
+D:\course 20 codes\Json Serialization Example\bin\Debug\Json Serialization Example.exe
+D:\course 20 codes\Json Serialization Example\bin\Debug\Json Serialization Example.pdb
+D:\course 20 codes\Json Serialization Example\obj\Debug\Json Serialization Example.csproj.AssemblyReference.cache
+D:\course 20 codes\Json Serialization Example\obj\Debug\Json Serialization Example.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Json Serialization Example\obj\Debug\Json Serialization Example.exe
+D:\course 20 codes\Json Serialization Example\obj\Debug\Json Serialization Example.pdb

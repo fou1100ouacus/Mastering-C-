@@ -1,0 +1,7 @@
+D:\course 20 codes\XML Serialization Example\bin\Debug\XML Serialization Example.exe.config
+D:\course 20 codes\XML Serialization Example\bin\Debug\XML Serialization Example.exe
+D:\course 20 codes\XML Serialization Example\bin\Debug\XML Serialization Example.pdb
+D:\course 20 codes\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.AssemblyReference.cache
+D:\course 20 codes\XML Serialization Example\obj\Debug\XML Serialization Example.csproj.CoreCompileInputs.cache
+D:\course 20 codes\XML Serialization Example\obj\Debug\XML Serialization Example.exe
+D:\course 20 codes\XML Serialization Example\obj\Debug\XML Serialization Example.pdb
