@@ -1,0 +1,7 @@
+D:\course 20 codes\Generic Classes\bin\Debug\Generic Classes.exe.config
+D:\course 20 codes\Generic Classes\bin\Debug\Generic Classes.exe
+D:\course 20 codes\Generic Classes\bin\Debug\Generic Classes.pdb
+D:\course 20 codes\Generic Classes\obj\Debug\Generic Classes.csproj.AssemblyReference.cache
+D:\course 20 codes\Generic Classes\obj\Debug\Generic Classes.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Generic Classes\obj\Debug\Generic Classes.exe
+D:\course 20 codes\Generic Classes\obj\Debug\Generic Classes.pdb

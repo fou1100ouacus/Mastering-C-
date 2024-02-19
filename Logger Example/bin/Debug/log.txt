@@ -1,1 +1,3 @@
 The message will be logged to a File.
+The message will be logged to a File.
+The message will be logged to a File.
