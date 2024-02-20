@@ -1,0 +1,7 @@
+D:\course 20 codes\What is Multicast Delegate\bin\Debug\What is Multicast Delegate.exe.config
+D:\course 20 codes\What is Multicast Delegate\bin\Debug\What is Multicast Delegate.exe
+D:\course 20 codes\What is Multicast Delegate\bin\Debug\What is Multicast Delegate.pdb
+D:\course 20 codes\What is Multicast Delegate\obj\Debug\What is Multicast Delegate.csproj.AssemblyReference.cache
+D:\course 20 codes\What is Multicast Delegate\obj\Debug\What is Multicast Delegate.csproj.CoreCompileInputs.cache
+D:\course 20 codes\What is Multicast Delegate\obj\Debug\What is Multicast Delegate.exe
+D:\course 20 codes\What is Multicast Delegate\obj\Debug\What is Multicast Delegate.pdb

@@ -1,0 +1,7 @@
+D:\course 20 codes\Func Delegate\bin\Debug\Func Delegate.exe.config
+D:\course 20 codes\Func Delegate\bin\Debug\Func Delegate.exe
+D:\course 20 codes\Func Delegate\bin\Debug\Func Delegate.pdb
+D:\course 20 codes\Func Delegate\obj\Debug\Func Delegate.csproj.AssemblyReference.cache
+D:\course 20 codes\Func Delegate\obj\Debug\Func Delegate.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Func Delegate\obj\Debug\Func Delegate.exe
+D:\course 20 codes\Func Delegate\obj\Debug\Func Delegate.pdb

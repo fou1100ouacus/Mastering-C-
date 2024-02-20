@@ -1,0 +1,7 @@
+D:\course 20 codes\Action Delegate\bin\Debug\Action Delegate.exe.config
+D:\course 20 codes\Action Delegate\bin\Debug\Action Delegate.exe
+D:\course 20 codes\Action Delegate\bin\Debug\Action Delegate.pdb
+D:\course 20 codes\Action Delegate\obj\Debug\Action Delegate.csproj.AssemblyReference.cache
+D:\course 20 codes\Action Delegate\obj\Debug\Action Delegate.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Action Delegate\obj\Debug\Action Delegate.exe
+D:\course 20 codes\Action Delegate\obj\Debug\Action Delegate.pdb

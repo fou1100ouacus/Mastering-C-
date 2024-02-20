@@ -1,0 +1,3 @@
+The message will be logged to a File.
+The message will be displayed on the screen.{115}
+The message will be displayed on the screen.{115}
