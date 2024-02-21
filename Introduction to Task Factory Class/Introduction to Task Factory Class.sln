@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to Task Factory Class", "Introduction to Task Factory Class.csproj", "{D287CF01-9E44-49F2-930E-489DBB0903CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D287CF01-9E44-49F2-930E-489DBB0903CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D287CF01-9E44-49F2-930E-489DBB0903CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D287CF01-9E44-49F2-930E-489DBB0903CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D287CF01-9E44-49F2-930E-489DBB0903CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C8C4193-4C81-48E6-82C0-8C7CE9FB56C1}
+	EndGlobalSection
+EndGlobal
