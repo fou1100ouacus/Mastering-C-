@@ -1,0 +1,7 @@
+D:\course 20 codes\using to create an alias\bin\Debug\using to create an alias.exe.config
+D:\course 20 codes\using to create an alias\bin\Debug\using to create an alias.exe
+D:\course 20 codes\using to create an alias\bin\Debug\using to create an alias.pdb
+D:\course 20 codes\using to create an alias\obj\Debug\using to create an alias.csproj.AssemblyReference.cache
+D:\course 20 codes\using to create an alias\obj\Debug\using to create an alias.csproj.CoreCompileInputs.cache
+D:\course 20 codes\using to create an alias\obj\Debug\using to create an alias.exe
+D:\course 20 codes\using to create an alias\obj\Debug\using to create an alias.pdb

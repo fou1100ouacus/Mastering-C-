@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "using to create an alias", "using to create an alias.csproj", "{ED393817-DCBA-484C-A9D5-60F9A439A725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED393817-DCBA-484C-A9D5-60F9A439A725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED393817-DCBA-484C-A9D5-60F9A439A725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED393817-DCBA-484C-A9D5-60F9A439A725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED393817-DCBA-484C-A9D5-60F9A439A725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F748659E-FC35-45F4-92F2-80E4BC57CC9D}
+	EndGlobalSection
+EndGlobal
