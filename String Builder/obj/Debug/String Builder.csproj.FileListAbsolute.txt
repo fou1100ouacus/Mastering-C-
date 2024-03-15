@@ -1,0 +1,7 @@
+D:\course 20 codes\String Builder\bin\Debug\String Builder.exe.config
+D:\course 20 codes\String Builder\bin\Debug\String Builder.exe
+D:\course 20 codes\String Builder\bin\Debug\String Builder.pdb
+D:\course 20 codes\String Builder\obj\Debug\String Builder.csproj.AssemblyReference.cache
+D:\course 20 codes\String Builder\obj\Debug\String Builder.csproj.CoreCompileInputs.cache
+D:\course 20 codes\String Builder\obj\Debug\String Builder.exe
+D:\course 20 codes\String Builder\obj\Debug\String Builder.pdb
