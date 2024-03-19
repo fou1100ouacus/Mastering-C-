@@ -1,0 +1,7 @@
+D:\course 20 codes\perdicteDelegate\bin\Debug\perdicteDelegate.exe.config
+D:\course 20 codes\perdicteDelegate\bin\Debug\perdicteDelegate.exe
+D:\course 20 codes\perdicteDelegate\bin\Debug\perdicteDelegate.pdb
+D:\course 20 codes\perdicteDelegate\obj\Debug\perdicteDelegate.csproj.AssemblyReference.cache
+D:\course 20 codes\perdicteDelegate\obj\Debug\perdicteDelegate.csproj.CoreCompileInputs.cache
+D:\course 20 codes\perdicteDelegate\obj\Debug\perdicteDelegate.exe
+D:\course 20 codes\perdicteDelegate\obj\Debug\perdicteDelegate.pdb
