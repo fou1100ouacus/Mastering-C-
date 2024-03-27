@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9EF741A2-4017-4C64-A111-D46AA81BD4B5}</ProjectGuid>
+    <ProjectGuid>{E2B338A8-CC7B-4F98-A2F7-2C3D6D9C3CCE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Temperature_Change_Event_Example</RootNamespace>
-    <AssemblyName>Temperature Change Event Example</AssemblyName>
+    <RootNamespace>SimpleEventWithParametersUsingArguments</RootNamespace>
+    <AssemblyName>SimpleEventWithParametersUsingArguments</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ctrlCalculate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlCalculate.Designer.cs">
+      <DependentUpon>ctrlCalculate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ctrlCalculate.resx">
+      <DependentUpon>ctrlCalculate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
