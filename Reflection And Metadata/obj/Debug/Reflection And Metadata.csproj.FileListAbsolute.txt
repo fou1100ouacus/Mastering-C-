@@ -1,0 +1,7 @@
+D:\USED\Reflection And Metadata\bin\Debug\Reflection And Metadata.exe.config
+D:\USED\Reflection And Metadata\bin\Debug\Reflection And Metadata.exe
+D:\USED\Reflection And Metadata\bin\Debug\Reflection And Metadata.pdb
+D:\USED\Reflection And Metadata\obj\Debug\Reflection And Metadata.csproj.AssemblyReference.cache
+D:\USED\Reflection And Metadata\obj\Debug\Reflection And Metadata.csproj.CoreCompileInputs.cache
+D:\USED\Reflection And Metadata\obj\Debug\Reflection And Metadata.exe
+D:\USED\Reflection And Metadata\obj\Debug\Reflection And Metadata.pdb

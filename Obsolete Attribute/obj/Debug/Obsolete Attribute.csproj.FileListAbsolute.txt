@@ -1,0 +1,7 @@
+D:\USED\Obsolete Attribute\bin\Debug\Obsolete Attribute.exe.config
+D:\USED\Obsolete Attribute\bin\Debug\Obsolete Attribute.exe
+D:\USED\Obsolete Attribute\bin\Debug\Obsolete Attribute.pdb
+D:\USED\Obsolete Attribute\obj\Debug\Obsolete Attribute.csproj.AssemblyReference.cache
+D:\USED\Obsolete Attribute\obj\Debug\Obsolete Attribute.csproj.CoreCompileInputs.cache
+D:\USED\Obsolete Attribute\obj\Debug\Obsolete Attribute.exe
+D:\USED\Obsolete Attribute\obj\Debug\Obsolete Attribute.pdb

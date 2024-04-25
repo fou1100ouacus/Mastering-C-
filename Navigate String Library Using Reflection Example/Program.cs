@@ -4,7 +4,6 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace Navigate_String_Library_Using_Reflection_Example
 {
     internal class Program
@@ -15,7 +14,7 @@ namespace Navigate_String_Library_Using_Reflection_Example
 
 
             // Get the System.String type
-            Type stringType = mscorlib.GetType("System.String");
+            Type stringType = mscorlib.GetType("System.string");
 
 
             if (stringType != null)
@@ -24,13 +23,14 @@ namespace Navigate_String_Library_Using_Reflection_Example
 
 
                 // Get all public methods of the System.String class
-                var stringMethods = stringType.GetMethods(BindingFlags.Public | BindingFlags.Instance)
-                    .OrderBy(method => method.Name);
+                var stringMethods = stringType.GetMethods(BindingFlags.Public | BindingFlags.SuppressChangeType)
+                    .OrderBy(method => method.Name);// .order by usin linq
 
 
                 foreach (var method in stringMethods)
                 {
-                    Console.WriteLine($"\t{method.ReturnType} {method.Name}({GetParameterList(method.GetParameters())})");
+                    Console.WriteLine($"\t{method.ReturnType} {method.Name} " +
+                        $"({GetParameterList(method.GetParameters())})");
                 }
             }
             else
