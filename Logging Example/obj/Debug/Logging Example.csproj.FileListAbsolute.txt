@@ -1,0 +1,7 @@
+D:\USED\Logging Example\bin\Debug\Logging Example.exe.config
+D:\USED\Logging Example\bin\Debug\Logging Example.exe
+D:\USED\Logging Example\bin\Debug\Logging Example.pdb
+D:\USED\Logging Example\obj\Debug\Logging Example.csproj.AssemblyReference.cache
+D:\USED\Logging Example\obj\Debug\Logging Example.csproj.CoreCompileInputs.cache
+D:\USED\Logging Example\obj\Debug\Logging Example.exe
+D:\USED\Logging Example\obj\Debug\Logging Example.pdb
