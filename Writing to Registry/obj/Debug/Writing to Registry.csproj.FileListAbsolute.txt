@@ -1,0 +1,7 @@
+D:\USED\Writing to Registry\bin\Debug\Writing to Registry.exe.config
+D:\USED\Writing to Registry\bin\Debug\Writing to Registry.exe
+D:\USED\Writing to Registry\bin\Debug\Writing to Registry.pdb
+D:\USED\Writing to Registry\obj\Debug\Writing to Registry.csproj.AssemblyReference.cache
+D:\USED\Writing to Registry\obj\Debug\Writing to Registry.csproj.CoreCompileInputs.cache
+D:\USED\Writing to Registry\obj\Debug\Writing to Registry.exe
+D:\USED\Writing to Registry\obj\Debug\Writing to Registry.pdb

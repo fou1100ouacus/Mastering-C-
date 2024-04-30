@@ -1,0 +1,7 @@
+D:\USED\Permission to Write to Registry\bin\Debug\Permission to Write to Registry.exe.config
+D:\USED\Permission to Write to Registry\bin\Debug\Permission to Write to Registry.exe
+D:\USED\Permission to Write to Registry\bin\Debug\Permission to Write to Registry.pdb
+D:\USED\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.csproj.AssemblyReference.cache
+D:\USED\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.csproj.CoreCompileInputs.cache
+D:\USED\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.exe
+D:\USED\Permission to Write to Registry\obj\Debug\Permission to Write to Registry.pdb

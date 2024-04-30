@@ -1,0 +1,7 @@
+D:\USED\Reading from Registry\bin\Debug\Reading from Registry.exe.config
+D:\USED\Reading from Registry\bin\Debug\Reading from Registry.exe
+D:\USED\Reading from Registry\bin\Debug\Reading from Registry.pdb
+D:\USED\Reading from Registry\obj\Debug\Reading from Registry.csproj.AssemblyReference.cache
+D:\USED\Reading from Registry\obj\Debug\Reading from Registry.csproj.CoreCompileInputs.cache
+D:\USED\Reading from Registry\obj\Debug\Reading from Registry.exe
+D:\USED\Reading from Registry\obj\Debug\Reading from Registry.pdb
