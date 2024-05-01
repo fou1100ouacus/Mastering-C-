@@ -12,17 +12,17 @@ namespace Permission_to_Write_to_Registry
         static void Main(string[] args)
         {// Specify the Registry key and path
             string keyPath = @"HKEY_LOCAL_MACHINE\SOFTWARE\YourSoftware";
-            string valueName = "YourValueName";
-            string valueData = "YourValueData";
+            string valueName2 = "YourValueName";
+            string valueData = "YourValueDataPermissinon";
 
 
             try
             {
                 // Write the value to the Registry
-                Registry.SetValue(keyPath, valueName, valueData, RegistryValueKind.String);
+                Registry.SetValue(keyPath, valueName2, valueData, RegistryValueKind.String);
 
 
-                Console.WriteLine($"Value {valueName} successfully written to the Registry.");
+                Console.WriteLine($"Value {valueName2} successfully written to the Registry.");
             }
             catch (Exception ex)
             {

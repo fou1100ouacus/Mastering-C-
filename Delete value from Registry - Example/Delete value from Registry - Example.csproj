@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{35CB579E-949F-4C33-8B74-A574FD7FD103}</ProjectGuid>
+    <ProjectGuid>{E85AF823-164C-4F42-AD54-689E6B849D68}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Permission_to_Write_to_Registry</RootNamespace>
-    <AssemblyName>Permission to Write to Registry</AssemblyName>
+    <RootNamespace>Delete_value_from_Registry___Example</RootNamespace>
+    <AssemblyName>Delete value from Registry - Example</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <ApplicationManifest>app.manifest</ApplicationManifest>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -51,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="app.manifest" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

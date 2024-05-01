@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete value from Registry - Example", "Delete value from Registry - Example.csproj", "{E85AF823-164C-4F42-AD54-689E6B849D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85AF823-164C-4F42-AD54-689E6B849D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85AF823-164C-4F42-AD54-689E6B849D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85AF823-164C-4F42-AD54-689E6B849D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85AF823-164C-4F42-AD54-689E6B849D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C6FEF5-CC77-4264-ABB9-5333539DEFB1}
+	EndGlobalSection
+EndGlobal
