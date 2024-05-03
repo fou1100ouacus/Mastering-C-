@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Multithreading")]
+[assembly: AssemblyTitle("Symmetric Encryption Example")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Multithreading")]
+[assembly: AssemblyProduct("Symmetric Encryption Example")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f30cada6-1bbb-45d4-819a-b1073da33526")]
+[assembly: Guid("dc03e92b-e0f9-4bb3-9a73-e1ae3eae4b2f")]
 
 // Version information for an assembly consists of the following four values:
 //
