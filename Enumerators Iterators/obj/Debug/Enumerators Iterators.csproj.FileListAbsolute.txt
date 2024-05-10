@@ -1,0 +1,7 @@
+D:\USED\Enumerators Iterators\bin\Debug\Enumerators Iterators.exe.config
+D:\USED\Enumerators Iterators\bin\Debug\Enumerators Iterators.exe
+D:\USED\Enumerators Iterators\bin\Debug\Enumerators Iterators.pdb
+D:\USED\Enumerators Iterators\obj\Debug\Enumerators Iterators.csproj.AssemblyReference.cache
+D:\USED\Enumerators Iterators\obj\Debug\Enumerators Iterators.csproj.CoreCompileInputs.cache
+D:\USED\Enumerators Iterators\obj\Debug\Enumerators Iterators.exe
+D:\USED\Enumerators Iterators\obj\Debug\Enumerators Iterators.pdb
