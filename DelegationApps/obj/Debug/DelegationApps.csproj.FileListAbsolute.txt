@@ -1,0 +1,11 @@
+D:\HelpedProject\DelegationApps\bin\Debug\DelegationApps.exe.config
+D:\HelpedProject\DelegationApps\bin\Debug\DelegationApps.exe
+D:\HelpedProject\DelegationApps\bin\Debug\DelegationApps.pdb
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.csproj.AssemblyReference.cache
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.Form1.resources
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.Form2.resources
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.Properties.Resources.resources
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.csproj.GenerateResource.cache
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.csproj.CoreCompileInputs.cache
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.exe
+D:\HelpedProject\DelegationApps\obj\Debug\DelegationApps.pdb

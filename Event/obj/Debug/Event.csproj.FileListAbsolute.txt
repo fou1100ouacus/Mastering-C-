@@ -1,0 +1,11 @@
+D:\HelpedProject\Event\bin\Debug\Event.exe.config
+D:\HelpedProject\Event\bin\Debug\Event.exe
+D:\HelpedProject\Event\bin\Debug\Event.pdb
+D:\HelpedProject\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+D:\HelpedProject\Event\obj\Debug\Event.ctrlCalclator.resources
+D:\HelpedProject\Event\obj\Debug\Event.Form1.resources
+D:\HelpedProject\Event\obj\Debug\Event.Properties.Resources.resources
+D:\HelpedProject\Event\obj\Debug\Event.csproj.GenerateResource.cache
+D:\HelpedProject\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+D:\HelpedProject\Event\obj\Debug\Event.exe
+D:\HelpedProject\Event\obj\Debug\Event.pdb
