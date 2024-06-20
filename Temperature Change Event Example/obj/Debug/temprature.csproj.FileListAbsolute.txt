@@ -1,0 +1,7 @@
+D:\course 20 codes\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.exe.config
+D:\course 20 codes\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.exe
+D:\course 20 codes\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.pdb
+D:\course 20 codes\Temperature Change Event Example\obj\Debug\temprature.csproj.AssemblyReference.cache
+D:\course 20 codes\Temperature Change Event Example\obj\Debug\temprature.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.exe
+D:\course 20 codes\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.pdb

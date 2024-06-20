@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{290899B5-72AC-4B8B-A918-AF031C7B08A3}</ProjectGuid>
+    <ProjectGuid>{035F61DA-347B-4B0B-ABC6-EC67C631DE44}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Multithreading</RootNamespace>
-    <AssemblyName>Multithreading</AssemblyName>
+    <RootNamespace>Temperature_Change_Event_Example</RootNamespace>
+    <AssemblyName>Temperature Change Event Example</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
