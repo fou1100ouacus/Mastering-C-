@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading.csproj", "{290899B5-72AC-4B8B-A918-AF031C7B08A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading.csproj", "{F30CADA6-1BBB-45D4-819A-B1073DA33526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{290899B5-72AC-4B8B-A918-AF031C7B08A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{290899B5-72AC-4B8B-A918-AF031C7B08A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{290899B5-72AC-4B8B-A918-AF031C7B08A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{290899B5-72AC-4B8B-A918-AF031C7B08A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30CADA6-1BBB-45D4-819A-B1073DA33526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30CADA6-1BBB-45D4-819A-B1073DA33526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30CADA6-1BBB-45D4-819A-B1073DA33526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30CADA6-1BBB-45D4-819A-B1073DA33526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5AB94C18-D03D-4F5F-98E1-10D72742E7F5}
+		SolutionGuid = {93EB899B-A93A-4755-84A0-B1C03E1757EF}
 	EndGlobalSection
 EndGlobal

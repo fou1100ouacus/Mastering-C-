@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{290899B5-72AC-4B8B-A918-AF031C7B08A3}</ProjectGuid>
+    <ProjectGuid>{F30CADA6-1BBB-45D4-819A-B1073DA33526}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Multithreading</RootNamespace>
     <AssemblyName>Multithreading</AssemblyName>
