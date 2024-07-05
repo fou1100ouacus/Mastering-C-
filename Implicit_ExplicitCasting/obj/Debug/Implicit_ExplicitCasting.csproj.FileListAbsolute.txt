@@ -1,0 +1,7 @@
+D:\C#Rev\Implicit_ExplicitCasting\bin\Debug\Implicit_ExplicitCasting.exe.config
+D:\C#Rev\Implicit_ExplicitCasting\bin\Debug\Implicit_ExplicitCasting.exe
+D:\C#Rev\Implicit_ExplicitCasting\bin\Debug\Implicit_ExplicitCasting.pdb
+D:\C#Rev\Implicit_ExplicitCasting\obj\Debug\Implicit_ExplicitCasting.csproj.AssemblyReference.cache
+D:\C#Rev\Implicit_ExplicitCasting\obj\Debug\Implicit_ExplicitCasting.csproj.CoreCompileInputs.cache
+D:\C#Rev\Implicit_ExplicitCasting\obj\Debug\Implicit_ExplicitCasting.exe
+D:\C#Rev\Implicit_ExplicitCasting\obj\Debug\Implicit_ExplicitCasting.pdb

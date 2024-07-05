@@ -1,0 +1,7 @@
+D:\C#Rev\Arraies\bin\Debug\Arraies.exe.config
+D:\C#Rev\Arraies\bin\Debug\Arraies.exe
+D:\C#Rev\Arraies\bin\Debug\Arraies.pdb
+D:\C#Rev\Arraies\obj\Debug\Arraies.csproj.AssemblyReference.cache
+D:\C#Rev\Arraies\obj\Debug\Arraies.csproj.CoreCompileInputs.cache
+D:\C#Rev\Arraies\obj\Debug\Arraies.exe
+D:\C#Rev\Arraies\obj\Debug\Arraies.pdb
