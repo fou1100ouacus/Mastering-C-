@@ -1,0 +1,7 @@
+D:\File Handling C sharp\IO Stream\CADisposapleDesignPattern\bin\Debug\CADisposapleDesignPattern.exe.config
+D:\File Handling C sharp\IO Stream\CADisposapleDesignPattern\bin\Debug\CADisposapleDesignPattern.exe
+D:\File Handling C sharp\IO Stream\CADisposapleDesignPattern\bin\Debug\CADisposapleDesignPattern.pdb
+D:\File Handling C sharp\IO Stream\CADisposapleDesignPattern\obj\Debug\CADisposapleDesignPattern.csproj.AssemblyReference.cache
+D:\File Handling C sharp\IO Stream\CADisposapleDesignPattern\obj\Debug\CADisposapleDesignPattern.csproj.CoreCompileInputs.cache
+D:\File Handling C sharp\IO Stream\CADisposapleDesignPattern\obj\Debug\CADisposapleDesignPattern.exe
+D:\File Handling C sharp\IO Stream\CADisposapleDesignPattern\obj\Debug\CADisposapleDesignPattern.pdb

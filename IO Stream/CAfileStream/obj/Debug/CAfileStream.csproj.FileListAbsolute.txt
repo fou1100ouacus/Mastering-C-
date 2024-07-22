@@ -1,0 +1,7 @@
+D:\File Handling C sharp\IO Stream\CAfileStream\bin\Debug\CAfileStream.exe.config
+D:\File Handling C sharp\IO Stream\CAfileStream\bin\Debug\CAfileStream.exe
+D:\File Handling C sharp\IO Stream\CAfileStream\bin\Debug\CAfileStream.pdb
+D:\File Handling C sharp\IO Stream\CAfileStream\obj\Debug\CAfileStream.csproj.AssemblyReference.cache
+D:\File Handling C sharp\IO Stream\CAfileStream\obj\Debug\CAfileStream.csproj.CoreCompileInputs.cache
+D:\File Handling C sharp\IO Stream\CAfileStream\obj\Debug\CAfileStream.exe
+D:\File Handling C sharp\IO Stream\CAfileStream\obj\Debug\CAfileStream.pdb
